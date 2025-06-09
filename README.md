@@ -1,7 +1,7 @@
 # COVID-19 Cases Analysis and Forecasting Project
 
 ## Overview
-This project analyzes and forecasts COVID-19 cases in five countries (India, USA, United Kingdom, Russia, and Iran) using machine learning models and time series forecasting. The analysis compares Linear Regression and Random Forest Regressor models, then implements ARIMA models for time series forecasting of new cases.
+Our 2nd Year Final Project analyzes and forecasts COVID-19 cases in five countries (India, USA, United Kingdom, Russia, and Iran) using machine learning models and time series forecasting. The analysis compares Linear Regression and Random Forest Regressor models, then implements ARIMA models for time series forecasting of new cases.
 
 ## Features
 - Data extraction from Our World in Data COVID-19 dataset
