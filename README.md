@@ -67,13 +67,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels pmdarima ye
 3. Adjust ARIMA parameters in `*_param` variables for tuning
 4. Modify forecast period by changing `steps` in `forecast()` calls
 
-## Results Preview
-![Model Comparison](model_comparison.png)
-*RMSE comparison between Linear Regression, Random Forest, and ARIMA models*
-
-![India Forecast](india_forecast.png)
-*7-day COVID-19 case forecast for India*
-
 ## Future Improvements
 - Incorporate additional features (vaccination rates, mobility data)
 - Implement more sophisticated time series models (SARIMA, Prophet)
